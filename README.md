@@ -4,4 +4,4 @@ to start:
 
 npm install
 
-nom run web
+npm run web
